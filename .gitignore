@@ -1,1 +1,11 @@
-idea.txt
+config
+controllers
+db
+models
+node_modules
+public
+routes
+views
+idea.text
+package.json
+server.js

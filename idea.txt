@@ -1,0 +1,17 @@
+google maps api to get to user location and destination
+
+georgia tech api to get the locations for all 
+parking lots and parking decks as well as the capacity 
+of vehicles per each one of them.
+
+gt api to get database of flux of cars 
+getting into each one of the parking lots and decks
+in real time.
+
+gt api to get buses trafic for people using buses 
+transportation.
+
+weather api for game days.
+
+around me api for restaurants and other atractions
+in the area.
